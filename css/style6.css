@@ -690,7 +690,7 @@ font-size: 40px;
   }
 @media (min-width:300px){
   .assign-two div{
-    width:100%  ;
+    width:90%  ;
   }
   .assign-two div h3{
     color: black;
@@ -698,7 +698,7 @@ font-size: 40px;
 }
   @media (min-width:600px){
     .assign-two div{
-width:49% ;
+width:40% ;
     }
    
     .assign-two div h3{
@@ -707,7 +707,7 @@ width:49% ;
   }
   @media (min-width:900px){
     .assign-two div{
-width:24% ;
+width:20% ;
     }
     .assign-two div h3
     {
